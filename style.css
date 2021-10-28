@@ -1,0 +1,46 @@
+.container{
+    width: 950px;
+    background-color: silver;
+    margin: 0px auto;
+    padding: 20px;
+}
+
+h1{
+    background-color: tomato;
+    font-weight: 700;
+    text-decoration: yellow;
+}
+
+
+p{
+    background-color: silver;
+    font-style: italic;
+}
+
+table, th,td {
+    border: 1px solid black;
+}
+
+.icons img{ 
+    height: 70px;
+    width: 70px;
+}
+
+
+.message{
+    margin: auto;
+    border: 1px solid black;
+}
+
+
+.button{
+    background-color: lightsalmon;
+    border-radius: 01%;
+    border: turquoise;
+    font-size: 90%;
+    width: 150px;
+    display: block;
+    margin-bottom: 10px;
+    border: 2px black;
+    box-shadow: 3px 3px black;
+}
